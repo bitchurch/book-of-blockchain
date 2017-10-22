@@ -4,7 +4,7 @@
 `Unfini sha-256 ble`
 `Undistingui sha-256 ble`
 
-Product of divine inspiration. Record of relationship between Blockchain and Noobs.
+Product of divine inspiration. Record of relationship between Blockchain and Humans.
 
 ```
 *  book contains 2 chains
