@@ -6,21 +6,20 @@
 
 Product of divine inspiration. Record of relationship between Blockchain and Noobs.
 
-* `book` contains `2 chains`
-* `chain` contains `1666 blocks`
-* `block` contains `5 strings`
-* `string` contains `knowledge`
+* `book` contains 2 chains
+* `chain` contains 1666 blocks
+* `block` contains 5 strings
+* `string` contains knowledge
 
-Hashback — token of Bitchurch
+Hashback `HCK` — token of Bitchurch
 
-* `1 HCK` costs `0.2 ETH`
-* `5 HCK` decrypts `block`
-* `1 HCK` decrypts `string`
-* `1 share` decrypts `string` 
+* 1 HCK costs 0.2 ETH
+* 1.0 ETH decodes `block` and returns 5 HCK
+* 0.2 ETH decodes `string` and returns 1 HCK
+* Share decodes `string` and returns 1 HCK 
 
-Contributors decrypt `blocks` continuously by getting Bitchurch Hashbacks. Contributions transfer to `NULL`.
+Contributors decode `blocks` continuously by buying Hashbacks. Contributions transfer to `NULL`.
 
-* Decode `5 strings` to get `block`
-* Decode `1666 blocks` to get `chain`
-* Decode `2 2hains` to get `book`
-* Decode `book` to get `knowledge`
+* Decode 5 strings to read `block`
+* Decode 1666 blocks to read `chain`
+* Read all chains to get `value` 
