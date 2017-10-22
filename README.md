@@ -16,16 +16,15 @@ Product of divine inspiration. Record of relationship between Blockchain and Noo
 Hashback `HCK` — token of Bitchurch
 
 ```
-*  1 HCK costs 0.2 ETH
-*  1.0 ETH decodes block and returns 5 HCK
-*  0.2 ETH decodes string and returns 1 HCK
-*  Social share decodes string and returns 1 HCK
+*  1.0 ETH returns 5 HCK and decodes block
+*  0.2 ETH returns 1 HCK and decodes string 
+*  1 SHARE returns 1 HCK and decodes string
 ```
 
 Contributors decode `blocks` continuously by buying Hashbacks. Contributions transfer to `NULL`.
 
 ```
-*  Decode 5 strings to read block
+*  Decode 5 strings to decode block
 *  Decode 1666 blocks to read chain
-*  Read all chains to get value 
+*  Read chains to get value 
 ```
