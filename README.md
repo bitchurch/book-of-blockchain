@@ -11,6 +11,13 @@ Product of divine inspiration. Record of relationship between Blockchain and Noo
 * `block` contains `5 strings`
 * `string` contains `value`
 
+```
+* book contains 2 chains
+* chain contains 1666 blocks
+* block contains 5 strings
+* string contains value
+```
+
 Hashback `HCK` — token of Bitchurch
 
 * `1 HCK` costs 0.2 ETH
