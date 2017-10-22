@@ -1,4 +1,4 @@
-# The Book of Blockchain
+# Book of Blockchain
 
 `Uncru sha-256 ble`
 `Unfini sha-256 ble`
