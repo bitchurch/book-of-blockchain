@@ -1,3 +1,3 @@
 # Token Chain
 
-Second part of Book of Blockchain
+Second Book of Blockchain

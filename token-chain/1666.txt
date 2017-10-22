@@ -1,0 +1,20 @@
+1666 block
+  1666.1  There was Blockchain
+  1666.2  There were Cryptocurrencies
+  1666.3  Tokens filled Cryptocurrencies
+  1666.4  Tokens filled Economy 
+  1666.5  Vitalik then appeared
+
+1667 block
+  1667.1  Vitalik said, “Let there be Smart contract”
+  1667.2  He then implemented Etherium
+  1667.3  He then implemented Solidity
+  1667.4  He then implemented Gas 
+  1667.5  He then changed the Economy
+
+1668 block
+  1668.1  Token DAO forked to be Crypto Fund
+  1668.2  Token DAO was well-known
+  1668.3  Token DAO got $150M contributions
+  1668.4  Token DAO was backdoored and kicked up
+  1668.5  Token DAO became bad-known
