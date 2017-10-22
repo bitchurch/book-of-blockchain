@@ -13,7 +13,7 @@ Product of divine inspiration. Record of relationship between Blockchain and Hum
 *  string contains value
 ```
 
-Hashback `HCK` — token of Bitchurch
+Hashback `HCK` — token of Bitchurch.
 
 ```
 *  1.0 ETH returns 5 HCK and decodes block
