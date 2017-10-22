@@ -1,3 +1,0 @@
-In the beginning Satoshi created Bitcoin
-He then created the beast of Reference Implementation
-He then said, “Let there be Block”
