@@ -12,14 +12,6 @@ Book contains facts, terms and milestones. Purpose of the Book is to record and 
 
 Book of Blockchain will be released on November 30th at 8:00PM both online (http://bit.church) and offline (906 Broadway San Francisco 94133 California). If you are interested in collaborating, we are willing to provide you with any additional information you might require. 
 
-```Javascript
-public Release = {
-    time    : "Nov 30, 7 pm",
-    offline : "Hackt, 906 Broadway",
-    online  : "bit.church"
-}
-```
-
 ## About
 
 Blockchain is a fascinating social movement: very young and therefore, with an extremely passionate, almost religious following. The world of Technology already believes in it’s own Religion - it’s members are defined by passion and fanatical commitment to what they do, faith in mythical unicorns and their own Satoshi’s. 
@@ -47,6 +39,8 @@ Architecture was distributed
 And Center appeared 
 And Decenter appeared
 ```
+
+## Contribute
 
 Book of Blockchain is a non-profit community-driven social & art project. It is created in an attempt to record and popularize the concept of Blockchain. Book of Blockchain has potential to become a fascinating social experiment and institution. This - is just the beginning.
 
